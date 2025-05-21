@@ -1,0 +1,14 @@
+E:\Rider\LB\LB5\LB5\LB5\bin\Debug\net8.0\LB5.exe
+E:\Rider\LB\LB5\LB5\LB5\bin\Debug\net8.0\LB5.deps.json
+E:\Rider\LB\LB5\LB5\LB5\bin\Debug\net8.0\LB5.runtimeconfig.json
+E:\Rider\LB\LB5\LB5\LB5\bin\Debug\net8.0\LB5.dll
+E:\Rider\LB\LB5\LB5\LB5\bin\Debug\net8.0\LB5.pdb
+E:\Rider\LB\LB5\LB5\LB5\obj\Debug\net8.0\LB5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rider\LB\LB5\LB5\LB5\obj\Debug\net8.0\LB5.AssemblyInfoInputs.cache
+E:\Rider\LB\LB5\LB5\LB5\obj\Debug\net8.0\LB5.AssemblyInfo.cs
+E:\Rider\LB\LB5\LB5\LB5\obj\Debug\net8.0\LB5.csproj.CoreCompileInputs.cache
+E:\Rider\LB\LB5\LB5\LB5\obj\Debug\net8.0\LB5.dll
+E:\Rider\LB\LB5\LB5\LB5\obj\Debug\net8.0\refint\LB5.dll
+E:\Rider\LB\LB5\LB5\LB5\obj\Debug\net8.0\LB5.pdb
+E:\Rider\LB\LB5\LB5\LB5\obj\Debug\net8.0\LB5.genruntimeconfig.cache
+E:\Rider\LB\LB5\LB5\LB5\obj\Debug\net8.0\ref\LB5.dll

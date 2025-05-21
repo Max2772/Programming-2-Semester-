@@ -1,0 +1,14 @@
+E:\Rider\LB\LB1\LB2\LB2_1\1_15\obj\Debug\net8.0\1_15.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rider\LB\LB1\LB2\LB2_1\1_15\obj\Debug\net8.0\1_15.AssemblyInfoInputs.cache
+E:\Rider\LB\LB1\LB2\LB2_1\1_15\obj\Debug\net8.0\1_15.AssemblyInfo.cs
+E:\Rider\LB\LB1\LB2\LB2_1\1_15\obj\Debug\net8.0\1_15.csproj.CoreCompileInputs.cache
+E:\Rider\LB\LB1\LB2\LB2_1\1_15\bin\Debug\net8.0\1_15.exe
+E:\Rider\LB\LB1\LB2\LB2_1\1_15\bin\Debug\net8.0\1_15.deps.json
+E:\Rider\LB\LB1\LB2\LB2_1\1_15\bin\Debug\net8.0\1_15.runtimeconfig.json
+E:\Rider\LB\LB1\LB2\LB2_1\1_15\bin\Debug\net8.0\1_15.dll
+E:\Rider\LB\LB1\LB2\LB2_1\1_15\bin\Debug\net8.0\1_15.pdb
+E:\Rider\LB\LB1\LB2\LB2_1\1_15\obj\Debug\net8.0\1_15.dll
+E:\Rider\LB\LB1\LB2\LB2_1\1_15\obj\Debug\net8.0\refint\1_15.dll
+E:\Rider\LB\LB1\LB2\LB2_1\1_15\obj\Debug\net8.0\1_15.pdb
+E:\Rider\LB\LB1\LB2\LB2_1\1_15\obj\Debug\net8.0\1_15.genruntimeconfig.cache
+E:\Rider\LB\LB1\LB2\LB2_1\1_15\obj\Debug\net8.0\ref\1_15.dll
