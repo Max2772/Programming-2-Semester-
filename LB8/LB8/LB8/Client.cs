@@ -1,12 +1,12 @@
 ﻿namespace LB8;
 
-abstract class Client : IClient
+class Client : IClient
 {
     public string Name { get; }
     public decimal Deposit { get; }
-    protected IBonusStrategy BonusStrategy { get; }
+    public IBonusStrategy BonusStrategy { get; }
 
-    protected Client(string name, decimal deposit, IBonusStrategy strategy)
+    public Client(string name, decimal deposit, IBonusStrategy strategy)
     {
         Name = name;
         Deposit = deposit;
@@ -19,7 +19,7 @@ abstract class Client : IClient
     }
 }
 
-class RegularClient : Client
+/*class RegularClient : Client
 {
     public RegularClient(string name, decimal deposit) : base(name, deposit, new NoBonusStrategy()) { }
 }
@@ -28,3 +28,4 @@ class PremiumClient : Client
 {
     public PremiumClient(string name, decimal deposit, decimal bonus) : base(name, deposit, new FixedBonusStrategy(bonus)) { }
 }
+*/

@@ -5,4 +5,5 @@ interface IClient
     string Name { get; }
     decimal Deposit { get; }
     decimal GetTotalDeposit();
+    IBonusStrategy BonusStrategy { get; }
 }

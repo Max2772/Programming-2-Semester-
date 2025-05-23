@@ -12,3 +12,4 @@ E:\Rider\LB\LB8\LB8\LB8\obj\Debug\net8.0\refint\LB8.dll
 E:\Rider\LB\LB8\LB8\LB8\obj\Debug\net8.0\LB8.pdb
 E:\Rider\LB\LB8\LB8\LB8\obj\Debug\net8.0\LB8.genruntimeconfig.cache
 E:\Rider\LB\LB8\LB8\LB8\obj\Debug\net8.0\ref\LB8.dll
+E:\Rider\LB\LB8\LB8\LB8\obj\Debug\net8.0\LB8.sourcelink.json
